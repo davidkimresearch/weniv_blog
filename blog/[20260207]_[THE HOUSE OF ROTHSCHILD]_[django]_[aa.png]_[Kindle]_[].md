@@ -1,6 +1,10 @@
----
-toc: ture
----
+<div style="display:flex; gap:40px;">
+
+  <!-- 목차 자리 -->
+  <div id="toc" style="width:220px; position:sticky; top:100px;">
+    <b>목차</b>
+    <ul id="toc-list"></ul>
+  </div>
 
 ## Table of Contents
 ### 1. Father and Sons 
@@ -102,3 +106,26 @@ If the traveller looked up, he could also see a second and still more repellent 
 - Gentile: 이방인
 - unleavened bread: 무교병
 
+  </div>
+</div>
+
+<script>
+  const tocList = document.getElementById("toc-list");
+  const headings = document.querySelectorAll("h2, h3, h4");
+
+  headings.forEach((h, i) => {
+    if (!h.id) h.id = "section-" + i;
+
+    const li = document.createElement("li");
+    li.style.marginLeft =
+      h.tagName === "H3" ? "12px" :
+      h.tagName === "H4" ? "24px" : "0";
+
+    const a = document.createElement("a");
+    a.href = "#" + h.id;
+    a.textContent = h.textContent;
+
+    li.appendChild(a);
+    tocList.appendChild(li);
+  });
+</script>
