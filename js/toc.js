@@ -1,7 +1,8 @@
+const aside = document.querySelector(".category-aside");
 const target = document.getElementById("contents");
 
-if (!target) {
-  console.log("contents 없음");
+if (!aside || !target) {
+  console.log("aside or contents 없음");
 } else {
   const observer = new MutationObserver(() => {
     const headings = target.querySelectorAll("h2, h3, h4");
@@ -10,10 +11,11 @@ if (!target) {
     observer.disconnect();
 
     const toc = document.createElement("div");
-    toc.id = "toc";
-    toc.innerHTML = "<strong>목차</strong>";
+    toc.innerHTML = "<div style='font-weight:600;margin-bottom:8px'>목차</div>";
 
     const ul = document.createElement("ul");
+    ul.style.fontSize = "14px";
+    ul.style.lineHeight = "1.6";
 
     headings.forEach((h, i) => {
       const id = "toc-" + i;
@@ -27,13 +29,14 @@ if (!target) {
       const a = document.createElement("a");
       a.href = "#" + id;
       a.innerText = h.innerText;
+      a.style.textDecoration = "none";
 
       li.appendChild(a);
       ul.appendChild(li);
     });
 
     toc.appendChild(ul);
-    document.body.appendChild(toc);
+    aside.appendChild(toc);
   });
 
   observer.observe(target, {
@@ -41,3 +44,4 @@ if (!target) {
     subtree: true,
   });
 }
+
