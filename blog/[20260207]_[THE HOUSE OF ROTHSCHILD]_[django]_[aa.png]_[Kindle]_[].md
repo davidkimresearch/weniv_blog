@@ -14,7 +14,7 @@
 #### ELEVEN - “Il est mort” (1836)
 ## ONE “Our Blessed Father”: Origins
 ### 1. 
-A traveller arriving in eighteenth-century Frankfurt, as he passed across the main Sachsenhäuser Bridge leading to the Fahrtor Gate, could hardly miss the Judensau —the Jews’ Sow (see illustration 1.i). An obscene graffito on the wall, it depicted a group of Jews abasing themselves before—or rather beneath and behind—a fierce sow. While one of them suckled at her teats, another (in rabbinical garb) held up her tail for the third (also a rabbi) to drink her excrement. The “Jews’ devil” watched approvingly. If the traveller looked up, he could also see a second and still more repellent image: that of a dead baby, its outstretched body punctured by countless small knife wounds and beneath it nine daggers. “On Maundy Thursday in the year 1475,” read a caption, “the little child Simeon, aged 2, was killed by the Jews”—an allusion to the case of Simon of Trent, who had allegedly been a victim of “ritual murder,” the fictional practice whereby Jews murdered Gentile children in order to put their blood in unleavened bread.
+A traveller arriving in eighteenth-century Frankfurt, as he passed across the main Sachsenhäuser Bridge leading to the Fahrtor Gate, could hardly miss the Judensau —the Jews’ Sow (see illustration 1.i). An obscene graffito on the wall, it depicted a group of Jews abasing themselves before—or rather beneath and behind—a fierce sow. While one of them suckled at her teats, another (in rabbinical garb) held up her tail for the third (also a rabbi) to drink her excrement. The “Jews’ devil” watched approvingly. If the traveller looked up, he could also see a second and still more repellent image: that of a dead baby, its outstretched body punctured by countless small knife wounds and beneath it nine daggers. “On Maundy Thursday in the year 1475,” read a caption, “the little child Simeon, aged 2, was killed by the Jews”—an allusion to the case of Simon of Trent, who had allegedly been a victim of “ritual murder,” the fictional practice whereby Jews murdered Gentile children in order to put their blood in unleavened bread.<br>
 문장 1<br>
 A traveller arriving in eighteenth-century Frankfurt, as he passed across the main Sachsenhäuser Bridge leading to the Fahrtor Gate, could hardly miss the Judensau —the Jews’ Sow (see illustration 1.i).<br>
 
@@ -26,7 +26,7 @@ A traveller arriving in eighteenth-century Frankfurt, as he passed across the ma
 - eighteenth-century: 18세기의
 - pass across: ~을 건너다
 - hardly miss: 거의 놓칠 수 없다
-- Judensau: 유대인의 암퇘지(반유대적 상징물)
+- Judensau: 유대인의 암퇘지(반유대적 상징물)<br>
 문장 2<br>
 An obscene graffito on the wall, it depicted a group of Jews abasing themselves before—or rather beneath and behind—a fierce sow.<br>
 
@@ -39,7 +39,7 @@ An obscene graffito on the wall, it depicted a group of Jews abasing themselves 
 - depict: 묘사하다
 - abase oneself: 스스로를 비하하다
 - fierce: 사나운
-- sow: 암퇘지
+- sow: 암퇘지<br>
 문장 3<br>
 While one of them suckled at her teats, another (in rabbinical garb) held up her tail for the third (also a rabbi) to drink her excrement.<br>
 
@@ -52,6 +52,7 @@ While one of them suckled at her teats, another (in rabbinical garb) held up her
 - rabbinical garb: 랍비의 복장
 - hold up: 들어 올리다
 - excrement: 배설물
+
 문장 4<br>
 The “Jews’ devil” watched approvingly.<br>
 
