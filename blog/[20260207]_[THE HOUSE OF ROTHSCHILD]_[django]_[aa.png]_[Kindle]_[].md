@@ -41,3 +41,21 @@ An obscene graffito on the wall, it depicted a group of Jews abasing themselves 
 * depict: 묘사하다
 * abase oneself: 스스로를 비하하다, 굴욕적으로 굴다
 * beneath and behind: 아래이자 뒤에서 (위치 강조)
+
+1.
+The lack of space, the dirt, the throng of people, the disagreeable accents of the voice—altogether, it made the most unpleasant impression, even upon the passer-by who merely looked through the gate.
+
+[해석]
+공간의 부족함, 더러움, 사람들의 군중, 귀에 거슬리는 말소리들—이 모든 것이 합쳐져, 단지 문 너머로 들여다보기만 한 행인에게조차도 극히 불쾌한 인상을 남겼다.
+
+[핵심 단어]
+- lack of space: 공간의 부족
+- dirt: 더러움, 오물
+- throng: 군중, 인파
+- disagreeable: 불쾌한, 불편한
+- accents of the voice: 말소리의 억양, 목소리의 음색
+- altogether: 전반적으로, 모두 합쳐
+- unpleasant impression: 불쾌한 인상
+- passer-by: 행인
+- merely: 단지, 그저
+- look through: 들여다보다
