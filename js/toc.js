@@ -1,31 +1,28 @@
 const box = document.querySelector(".category-aside");
-if (box) box.classList.remove("hidden");
+const aside = document.querySelector(".category-aside aside");
+const contents = document.querySelector("#contents");
 
-const timer = setInterval(() => {
-  const aside = document.querySelector(".category-aside aside");
-  const titles = document.querySelectorAll("h2, h3, h4");
+if (!box || !aside || !contents) return;
 
-  if (!aside || titles.length === 0) return;
+box.classList.remove("hidden");
+aside.innerHTML = "";
 
-  clearInterval(timer);
-  aside.innerHTML = "";
+const titles = contents.querySelectorAll("h2, h3, h4");
 
-  titles.forEach((t) => {
-    const item = document.createElement("div");
-    item.textContent = t.textContent;
+titles.forEach((t, i) => {
+  if (!t.id) t.id = "toc-" + i;
 
-    item.style.cursor = "pointer";
-    item.style.margin = "6px 0";
-    item.style.fontSize = "14px";
+  const item = document.createElement("div");
+  item.textContent = t.textContent;
+  item.style.cursor = "pointer";
+  item.style.padding = "6px 10px";
 
-    if (t.tagName === "H3") item.style.paddingLeft = "16px";
-    if (t.tagName === "H4") item.style.paddingLeft = "32px";
+  item.onclick = () => {
+    contents.scrollTo({
+      top: t.offsetTop - 20,
+      behavior: "smooth",
+    });
+  };
 
-    // 🔥 핵심: 클릭하면 강제로 그 제목으로 이동
-    item.onclick = () => {
-      t.scrollIntoView({ behavior: "smooth", block: "start" });
-    };
-
-    aside.appendChild(item);
-  });
-}, 300);
+  aside.appendChild(item);
+});
