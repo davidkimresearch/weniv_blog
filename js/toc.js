@@ -1,4 +1,4 @@
-window.addEventListener("load", function () {
+setTimeout(() => {
   const headings = document.querySelectorAll("h2, h3, h4");
   if (headings.length === 0) return;
 
@@ -27,4 +27,4 @@ window.addEventListener("load", function () {
 
   toc.appendChild(ul);
   document.body.appendChild(toc);
-});
+}, 500);
