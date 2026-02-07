@@ -1,11 +1,19 @@
-<div style="display:flex; gap:40px;">
+<div id="toc-box" style="
+  position: fixed;
+  right: 40px;
+  top: 120px;
+  width: 220px;
+  max-height: 60vh;
+  overflow: auto;
+  padding: 12px;
+  border: 1px solid #ddd;
+  background: white;
+  font-size: 14px;
+">
+  <b>목차</b>
+  <ul id="toc-list"></ul>
+</div>
 
-  <div id="toc" style="width:220px; position:sticky; top:100px;">
-    <b>목차</b>
-    <ul id="toc-list"></ul>
-  </div>
-
-  <div>
 
 ## Table of Contents
 ### 1. Father and Sons 
@@ -107,10 +115,7 @@ If the traveller looked up, he could also see a second and still more repellent 
 - Gentile: 이방인
 - unleavened bread: 무교병
 
-  </div>
-</div>
-
-<script>
+ <script>
   const tocList = document.getElementById("toc-list");
   const headings = document.querySelectorAll("h2, h3, h4");
 
@@ -118,9 +123,9 @@ If the traveller looked up, he could also see a second and still more repellent 
     if (!h.id) h.id = "section-" + i;
 
     const li = document.createElement("li");
-    li.style.marginLeft =
-      h.tagName === "H3" ? "12px" :
-      h.tagName === "H4" ? "24px" : "0";
+
+    if (h.tagName === "H3") li.style.marginLeft = "12px";
+    if (h.tagName === "H4") li.style.marginLeft = "24px";
 
     const a = document.createElement("a");
     a.href = "#" + h.id;
@@ -130,3 +135,4 @@ If the traveller looked up, he could also see a second and still more repellent 
     tocList.appendChild(li);
   });
 </script>
+
