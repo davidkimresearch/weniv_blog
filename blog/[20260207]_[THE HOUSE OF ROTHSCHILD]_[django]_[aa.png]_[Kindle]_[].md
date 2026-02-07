@@ -59,3 +59,40 @@ The lack of space, the dirt, the throng of people, the disagreeable accents of t
 - passer-by: 행인
 - merely: 단지, 그저
 - look through: 들여다보다
+
+문장 1
+The lack of space, the dirt, the throng of people, the disagreeable accents of the voice—altogether, it made the most unpleasant impression, even upon the passer-by who merely looked through the gate.<br>
+
+[해석]
+공간의 부족함, 더러움, 사람들로 빽빽이 몰린 군중, 귀에 거슬리는 말투까지—이 모든 것이 합쳐져, 그저 문 너머로 들여다보기만 한 행인에게조차 극도로 불쾌한 인상을 남겼다.
+
+[핵심 단어]
+- lack of space: 공간의 부족함
+- dirt: 더러움, 오물
+- throng: (빽빽하게 모인) 군중
+- disagreeable: 불쾌한, 거슬리는
+- accent: 말투, 억양
+- altogether: 전부 합쳐서, 종합적으로
+- unpleasant impression: 불쾌한 인상
+- passer-by: 행인
+- merely: 그저, 단지
+- look through: (문·창 너머로) 들여다보다
+
+
+문장 2
+It was a long time before I dared to go in there alone, and I did not return there readily when once I had escaped from that multitide of people, all of them with something to hawk, all indefatigably buying or selling.<br>
+
+[해석]
+나는 혼자 그 안으로 들어갈 용기를 내기까지 오랜 시간이 걸렸고, 한 번 그곳에서 벗어나 그 수많은 사람들—모두가 팔 물건을 들고, 지칠 줄 모르고 사고파는 사람들—속에서 탈출하고 나서는, 쉽게 다시 돌아가지 않았다.
+
+[핵심 단어]
+- dare to: 감히 ~하다
+- alone: 혼자서
+- readily: 쉽게, 선뜻
+- once: 일단 ~하고 나서
+- escape from: ~에서 벗어나다
+- multitide: 대군중, 수많은 사람들
+- hawk: (물건을) 떠들며 팔다
+- indefatigably: 지칠 줄 모르고
+- buying or selling: 사고팔기
+
