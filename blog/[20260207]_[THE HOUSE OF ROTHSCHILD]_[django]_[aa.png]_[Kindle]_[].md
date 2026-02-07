@@ -16,15 +16,23 @@
 ### 1. 
 A traveller arriving in eighteenth-century Frankfurt, as he passed across the main Sachsenhäuser Bridge leading to the Fahrtor Gate, could hardly miss the Judensau —the Jews’ Sow (see illustration 1.i). An obscene graffito on the wall, it depicted a group of Jews abasing themselves before—or rather beneath and behind—a fierce sow. While one of them suckled at her teats, another (in rabbinical garb) held up her tail for the third (also a rabbi) to drink her excrement. The “Jews’ devil” watched approvingly. If the traveller looked up, he could also see a second and still more repellent image: that of a dead baby, its outstretched body punctured by countless small knife wounds and beneath it nine daggers. “On Maundy Thursday in the year 1475,” read a caption, “the little child Simeon, aged 2, was killed by the Jews”—an allusion to the case of Simon of Trent, who had allegedly been a victim of “ritual murder,” the fictional practice whereby Jews murdered Gentile children in order to put their blood in unleavened bread.
 
-문장 1
-A traveller arriving in eighteenth-century Frankfurt, as he passed across the main Sachsenhäuser Bridge leading to the Fahrtor Gate, could hardly miss the Judensau —the Jews’ Sow.
-① 정확한 해석 18세기 프랑크푸르트에 도착한 여행자는, 파르토어 문으로 이어지는 주요 교량인 작센하우젠 다리를 건너면서, ‘유덴자우(Judensau)’, 즉 ‘유대인의 암퇘지’를 거의 눈치채지 못하고 지나칠 수 없었을 것이다.
-② 핵심 단어
-* traveller: 여행자
-* eighteenth-century: 18세기의
-* could hardly miss: 거의 놓칠 수 없었다 → 반드시 보게 되었다
-* Judensau: 중세·근세 유럽에서 유대인을 모욕하기 위해 사용된 반유대주의적 조형물
-* the Jews’ Sow: 직역하면 ‘유대인의 암퇘지’
+1.
+The lack of space, the dirt, the throng of people, the disagreeable accents of the voice—altogether, it made the most unpleasant impression, even upon the passer-by who merely looked through the gate.
+
+[해석]
+공간의 부족함, 더러움, 사람들의 군중, 귀에 거슬리는 말소리들—이 모든 것이 합쳐져, 단지 문 너머로 들여다보기만 한 행인에게조차도 극히 불쾌한 인상을 남겼다.
+
+[핵심 단어]
+- lack of space: 공간의 부족
+- dirt: 더러움, 오물
+- throng: 군중, 인파
+- disagreeable: 불쾌한, 불편한
+- accents of the voice: 말소리의 억양, 목소리의 음색
+- altogether: 전반적으로, 모두 합쳐
+- unpleasant impression: 불쾌한 인상
+- passer-by: 행인
+- merely: 단지, 그저
+- look through: 들여다보다
 
 문장 2
 An obscene graffito on the wall, it depicted a group of Jews abasing themselves before—or rather beneath and behind—a fierce sow.
