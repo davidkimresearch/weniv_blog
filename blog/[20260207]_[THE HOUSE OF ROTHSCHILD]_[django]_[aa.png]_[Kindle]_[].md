@@ -1,19 +1,3 @@
-<div id="toc-box" style="
-  position: fixed;
-  right: 40px;
-  top: 120px;
-  width: 220px;
-  max-height: 60vh;
-  overflow: auto;
-  padding: 12px;
-  border: 1px solid #ddd;
-  background: white;
-  font-size: 14px;
-">
-  <b>목차</b>
-  <ul id="toc-list"></ul>
-</div>
-
 
 ## Table of Contents
 ### 1. Father and Sons 
@@ -114,25 +98,3 @@ If the traveller looked up, he could also see a second and still more repellent 
 - ritual murder: 의식적 살인(반유대적 허구)
 - Gentile: 이방인
 - unleavened bread: 무교병
-
- <script>
-  const tocList = document.getElementById("toc-list");
-  const headings = document.querySelectorAll("h2, h3, h4");
-
-  headings.forEach((h, i) => {
-    if (!h.id) h.id = "section-" + i;
-
-    const li = document.createElement("li");
-
-    if (h.tagName === "H3") li.style.marginLeft = "12px";
-    if (h.tagName === "H4") li.style.marginLeft = "24px";
-
-    const a = document.createElement("a");
-    a.href = "#" + h.id;
-    a.textContent = h.textContent;
-
-    li.appendChild(a);
-    tocList.appendChild(li);
-  });
-</script>
-
