@@ -96,3 +96,20 @@ It was a long time before I dared to go in there alone, and I did not return the
 - indefatigably: 지칠 줄 모르고
 - buying or selling: 사고팔기
 
+문장 1<br>
+The lack of space, the dirt, the throng of people, the disagreeable accents of the voice—altogether, it made the most unpleasant impression, even upon the passer-by who merely looked through the gate.<br>
+
+[해석]<br>
+공간의 부족함, 더러움, 빽빽하게 몰린 사람들, 귀에 거슬리는 말투까지—이 모든 것이 합쳐져, 그저 문을 통해 안을 들여다보기만 한 행인에게조차 가장 불쾌한 인상을 주었다.<br>
+
+[핵심 단어]<br>
+- lack of space: 공간의 부족
+- dirt: 더러움, 오물
+- throng: 빽빽하게 모인 군중
+- disagreeable: 불쾌한, 거슬리는
+- accent: 말투, 억양
+- altogether: 전부 합쳐서, 종합적으로
+- unpleasant impression: 불쾌한 인상
+- passer-by: 행인
+- merely: 단지, 그저
+- look through: (문·창 너머로) 들여다보다
