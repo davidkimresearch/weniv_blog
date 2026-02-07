@@ -1,10 +1,11 @@
 <div style="display:flex; gap:40px;">
 
-  <!-- 목차 자리 -->
   <div id="toc" style="width:220px; position:sticky; top:100px;">
     <b>목차</b>
     <ul id="toc-list"></ul>
   </div>
+
+  <div>
 
 ## Table of Contents
 ### 1. Father and Sons 
