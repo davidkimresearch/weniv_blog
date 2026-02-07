@@ -1,3 +1,7 @@
+---
+toc: ture
+---
+
 ## Table of Contents
 ### 1. Father and Sons 
 #### ONE - “Our Blessed Father”: Origins 
