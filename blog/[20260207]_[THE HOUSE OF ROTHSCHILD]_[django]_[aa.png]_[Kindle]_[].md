@@ -14,19 +14,21 @@
 #### ELEVEN - “Il est mort” (1836)
 ## ONE “Our Blessed Father”: Origins
 ### 1. 
-A traveller arriving in eighteenth-century Frankfurt, as he passed across the main Sachsenhäuser Bridge leading to the Fahrtor Gate, could hardly miss the Judensau —the Jews’ Sow (see illustration 1.i). An obscene graffito on the wall, it depicted a group of Jews abasing themselves before—or rather beneath and behind—a fierce sow. While one of them suckled at her teats, another (in rabbinical garb) held up her tail for the third (also a rabbi) to drink her excrement. The “Jews’ devil” watched approvingly. If the traveller looked up, he could also see a second and still more repellent image: that of a dead baby, its outstretched body punctured by countless small knife wounds and beneath it nine daggers. “On Maundy Thursday in the year 1475,” read a caption, “the little child Simeon, aged 2, was killed by the Jews”—an allusion to the case of Simon of Trent, who had allegedly been a victim of “ritual murder,” the fictional practice whereby Jews murdered Gentile children in order to put their blood in unleavened bread.<br>
+A traveller arriving in eighteenth-century Frankfurt, as he passed across the main Sachsenhäuser Bridge leading to the Fahrtor Gate, could hardly miss the Judensau —the Jews’ Sow (see illustration 1.i). An obscene graffito on the wall, it depicted a group of Jews abasing themselves before—or rather beneath and behind—a fierce sow. While one of them suckled at her teats, another (in rabbinical garb) held up her tail for the third (also a rabbi) to drink her excrement. The “Jews’ devil” watched approvingly. If the traveller looked up, he could also see a second and still more repellent image: that of a dead baby, its outstretched body punctured by countless small knife wounds and beneath it nine daggers. “On Maundy Thursday in the year 1475,” read a caption, “the little child Simeon, aged 2, was killed by the Jews”—an allusion to the case of Simon of Trent, who had allegedly been a victim of “ritual murder,” the fictional practice whereby Jews murdered Gentile children in order to put their blood in unleavened bread.<p>
 문장 1<br>
 A traveller arriving in eighteenth-century Frankfurt, as he passed across the main Sachsenhäuser Bridge leading to the Fahrtor Gate, could hardly miss the Judensau —the Jews’ Sow (see illustration 1.i).<br>
 
 [해석]<br>
-18세기 프랑크푸르트에 도착한 여행자는 파어토어 문으로 이어지는 주요 교량인 작센하우젠 다리를 건너면서, ‘유대인의 암퇘지(Judensau)’를 거의 놓칠 수 없었을 것이다(도판 1.i 참조).<br>
+18세기 프랑크푸르트에 도착한 여행자는 파어토어 문으로 이어지는 주요 교량인 작센하우젠 다리를 건너면서 ‘유대인의 암퇘지(Judensau)’를 거의 놓칠 수 없었을 것이다(도판 1.i 참조).<br>
 
 [핵심 단어]<br>
 - traveller: 여행자
 - eighteenth-century: 18세기의
 - pass across: ~을 건너다
 - hardly miss: 거의 놓칠 수 없다
-- Judensau: 유대인의 암퇘지(반유대적 상징물)<br>
+- Judensau: 유대인의 암퇘지(반유대적 상징물)
+
+
 문장 2<br>
 An obscene graffito on the wall, it depicted a group of Jews abasing themselves before—or rather beneath and behind—a fierce sow.<br>
 
@@ -39,7 +41,9 @@ An obscene graffito on the wall, it depicted a group of Jews abasing themselves 
 - depict: 묘사하다
 - abase oneself: 스스로를 비하하다
 - fierce: 사나운
-- sow: 암퇘지<br>
+- sow: 암퇘지
+
+
 문장 3<br>
 While one of them suckled at her teats, another (in rabbinical garb) held up her tail for the third (also a rabbi) to drink her excrement.<br>
 
@@ -53,32 +57,37 @@ While one of them suckled at her teats, another (in rabbinical garb) held up her
 - hold up: 들어 올리다
 - excrement: 배설물
 
+
 문장 4<br>
 The “Jews’ devil” watched approvingly.<br>
 
 [해석]<br>
-‘유대인의 악마’는 만족스러운 듯 그 장면을 지켜보고 있었다.<br>
+‘유대인의 악마’는 흡족한 듯 그 장면을 지켜보고 있었다.<br>
 
 [핵심 단어]<br>
 - devil: 악마
-- watch approvingly: 흡족하게 바라보다
+- watch approvingly: 만족스럽게 바라보다
+
+
 문장 5<br>
 If the traveller looked up, he could also see a second and still more repellent image: that of a dead baby, its outstretched body punctured by countless small knife wounds and beneath it nine daggers.<br>
 
 [해석]<br>
-여행자가 위를 올려다보았다면, 그는 또 하나의, 그리고 더욱 혐오스러운 두 번째 이미지를 볼 수 있었을 것이다. 그것은 죽은 아기의 모습으로, 팔다리를 쭉 뻗은 몸에는 셀 수 없이 많은 작은 칼자국이 나 있었고, 그 아래에는 아홉 자루의 단검이 놓여 있었다.<br>
+여행자가 위를 올려다보았다면, 그는 또 하나의, 그리고 더욱 혐오스러운 두 번째 이미지를 볼 수 있었을 것이다. 그것은 죽은 아기의 모습으로, 팔다리를 쭉 뻗은 몸에는 셀 수 없이 많은 작은 칼자국이 나 있었고 그 아래에는 아홉 자루의 단검이 놓여 있었다.<br>
 
 [핵심 단어]<br>
 - look up: 올려다보다
 - repellent: 혐오스러운
 - outstretched: 쭉 뻗은
-- puncture: 구멍을 내다, 찌르다
+- puncture: 찌르다, 구멍을 내다
 - dagger: 단검
+
+
 문장 6<br>
 “On Maundy Thursday in the year 1475,” read a caption, “the little child Simeon, aged 2, was killed by the Jews”—an allusion to the case of Simon of Trent, who had allegedly been a victim of “ritual murder,” the fictional practice whereby Jews murdered Gentile children in order to put their blood in unleavened bread.<br>
 
 [해석]<br>
-“1475년 성목요일에,”라는 설명문에는 이렇게 적혀 있었다. “두 살배기 아이 시메온은 유대인들에 의해 살해되었다.” 이는 ‘의식적 살인’의 희생자였다고 전해지는 트렌트의 시몬 사건을 암시하는 것으로, 이는 유대인들이 무교병에 넣기 위해 이방인 아이들의 피를 사용하려고 그들을 살해했다는 허구의 관행을 가리킨다.<br>
+“1475년 성목요일에,”라고 적힌 설명문에는 “두 살배기 아이 시메온은 유대인들에 의해 살해되었다”라고 쓰여 있었다. 이는 ‘의식적 살인’의 희생자였다고 전해지는 트렌트의 시몬 사건을 암시하는 것으로, 유대인들이 무교병에 넣기 위해 이방인 아이들의 피를 사용하려고 그들을 살해했다는 허구의 관행을 가리킨다.<br>
 
 [핵심 단어]<br>
 - caption: 설명문, 캡션
@@ -88,3 +97,4 @@ If the traveller looked up, he could also see a second and still more repellent 
 - ritual murder: 의식적 살인(반유대적 허구)
 - Gentile: 이방인
 - unleavened bread: 무교병
+
